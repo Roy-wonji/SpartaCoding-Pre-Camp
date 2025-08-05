@@ -5,5 +5,6 @@
 - [Day 4(비동기 프로그래밍/제네릭)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day4)
 -  [Day 5(combine)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day5)
 -  [Day 6(랜덤컬러 미니 프로젝트)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day6)
+-  [Day 7(카운트 프로젝트)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day7)
 
 
