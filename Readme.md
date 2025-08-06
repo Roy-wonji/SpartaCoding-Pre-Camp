@@ -6,5 +6,6 @@
 -  [Day 5(combine)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day5)
 -  [Day 6(랜덤컬러 미니 프로젝트)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day6)
 -  [Day 7(카운트 프로젝트)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Day7)
+-  [Day 8(메모 프로젝트)](https://github.com/Roy-wonji/SpartaCoding-Pre-Camp/tree/main/Memo)
 
 
